@@ -16,13 +16,19 @@ Step 2: Lets move a few tiles and see what happens. We will move the tiles in th
 
 <img width="503" alt="screen shot 2017-06-21 at 4 39 11 pm" src="https://user-images.githubusercontent.com/13561051/27411347-0cf8eb32-56a2-11e7-9608-4b57015716d0.png">
 
+First we move tile 3.
+
 <img width="505" alt="screen shot 2017-06-21 at 4 39 27 pm" src="https://user-images.githubusercontent.com/13561051/27411353-1303cb82-56a2-11e7-938a-caf5dccd1a39.png">
 
+Then we move tile 5.
 
 <img width="508" alt="screen shot 2017-06-21 at 4 39 36 pm" src="https://user-images.githubusercontent.com/13561051/27411357-182be2b6-56a2-11e7-8a6e-9471a5e44197.png">
 
+Next we move tile 6.
 
 <img width="498" alt="screen shot 2017-06-21 at 4 39 44 pm" src="https://user-images.githubusercontent.com/13561051/27411360-1dd06eb2-56a2-11e7-90da-979d0acd9baf.png">
+
+Finally we move tile 3 again.
 
 <img width="500" alt="screen shot 2017-06-21 at 4 39 53 pm" src="https://user-images.githubusercontent.com/13561051/27411364-28042108-56a2-11e7-9411-0e5f91449794.png">
 
