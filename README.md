@@ -25,3 +25,8 @@ Step 2: Lets move a few tiles and see what happens. We will move the tiles in th
 <img width="498" alt="screen shot 2017-06-21 at 4 39 44 pm" src="https://user-images.githubusercontent.com/13561051/27411360-1dd06eb2-56a2-11e7-90da-979d0acd9baf.png">
 
 <img width="500" alt="screen shot 2017-06-21 at 4 39 53 pm" src="https://user-images.githubusercontent.com/13561051/27411364-28042108-56a2-11e7-9411-0e5f91449794.png">
+
+<img width="506" alt="screen shot 2017-06-21 at 4 40 10 pm" src="https://user-images.githubusercontent.com/13561051/27412019-aea6fde4-56a6-11e7-8783-2821e938ef1c.png">
+
+<img width="499" alt="screen shot 2017-06-21 at 4 42 32 pm" src="https://user-images.githubusercontent.com/13561051/27412025-be9e82a8-56a6-11e7-95e1-1bf34fa3e17b.png">
+
